@@ -1,2 +1,2 @@
 let kostka = Math.floor(Math.random() * 6) + 1;
-console.log(kostka);
+document.body.innerHTML = kostka;
